@@ -1,0 +1,46 @@
+*{box-sizing: border-box;font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;}
+.center{text-align: center;}
+
+/* Task 1 */
+
+.box1{background-color: #1de592; width: 600px; margin: 50px auto;padding: 60px;border-radius: 10px;}
+.head1{ font-size: 50px;margin:10px 0;line-height: 50px;}
+.para1{margin-bottom: 50px;}
+.btn1{padding: 15px 30px; font-size: 20px;border:none; background-color: #fff; border-radius: 50px;margin-bottom: 20px;}
+
+
+
+/* Task 2 */
+
+.box2{border:1px solid lightgray; width: 600px; margin: 50px auto;border-radius: 10px;}
+.inner-box1{padding: 60px 50px 30px;}
+.head2{ font-size: 30px;margin:10px 0;line-height: 50px;font-weight: 400;}
+.para2{margin-bottom: 50px; font-size: 20px;color: gray;}
+.img1{display: inline-block;border-radius: 50%; margin: 10px 30px 50px;}
+.inner-box2{padding: 10px 50px;border-top:1px solid lightgray}
+.link1{padding: 15px 0px; font-size: 20px;border:none; background-color: #fff; border-radius: 50px; display: block; text-decoration: none; font-weight:500}
+
+
+
+/* Task 3 */
+
+.box3{border:1px solid lightgray; width: 600px; margin: 50px auto;border-radius: 15px; padding: 0;}
+.img2{width:100%; border-radius: 15px 15px 0 0; }
+.inner-box3{padding: 15px 25px;}
+.lnk{font-size: 18px; color:#888; font-weight: 500;}
+.head3{ font-size: 40px;margin:10px 0;line-height: 50px;font-weight: 500;}
+.para3{margin-bottom: 50px; font-size: 20px;color: gray;}
+.btn3{padding: 15px 30px; font-size: 20px;border:none; background-color: #fff; border-radius: 6px;margin-bottom: 20px; border:1px solid lightgray; color:blue}
+
+
+
+/* Task 4 */
+
+.box4{width: 350px; margin: 50px auto;border-radius: 15px; padding: 0;}
+.logo{width: 100px;display: block; margin: 15px auto;}
+.fld1{display:block; width: 350px; height:50px;line-height: 50px; margin: 15px auto; padding: 10px 15px;border-radius: 4px; border: 1px solid #aaa;}
+.sbmt{width: 60%; display: block; border:none; background:#000; color:#fff; font-size: 16px; margin: 30px auto 50px; padding:15px 30px; border-radius: 50px;}
+.para4{font-size: 15px; color:#888; margin: 10px 0;}
+.para4 a{color:#555}
+.para5{font-size: 12px;color:#888; padding: 15px 30px; margin: 10px 0;}
+.para5 a{color:#888}
